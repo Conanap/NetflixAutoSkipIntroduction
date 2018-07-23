@@ -1,0 +1,13 @@
+ {
+    "name": "NASI",
+    "version": "1.0",
+    "description": "Netflix Auto Skip Introduction",
+    "permissions": ["activeTab"],
+    "content_scripts": [{
+      "matches": ["*://*.netflix.com/watch/*"],
+      "js": ["jquery.js", "background.js"]
+    }],
+    "icons": {
+    },
+    "manifest_version": 2
+  }
