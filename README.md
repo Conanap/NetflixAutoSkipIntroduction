@@ -3,8 +3,7 @@ A Chrome extension that automatically skips the Netflix introduction / credits f
 
 
 Installation:
-go to chrome://extensions/, drag the .crx to the webpage. If this doesn't work:
-Extract the .crx with unzipper of your choice, enable developer mode, select "load unpacked", and select the folder where the .crx was unzipped to.
+go to chrome://extensions/, extract with unzipper of your choice, enable developer mode, select "load unpacked", and select the folder where the .zip was unzipped to.
 
 For Safari:
 I do not have a Apple Developer Certificate. The files are there, feel free to build it yourself.
