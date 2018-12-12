@@ -8,6 +8,6 @@ Installation:
 go to chrome://extensions/, extract with unzipper of your choice, enable developer mode, select "load unpacked", and select the folder where the .zip was unzipped to.
 
 For Safari:
-I do not have a Apple Developer Certificate. The files are there, feel free to build it yourself.
+I do not have an Apple Developer Certificate. The files are there, feel free to build it yourself.
 
 For now users must manually check for updates.
