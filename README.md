@@ -1,5 +1,5 @@
 # NetflixAutoSkipIntroduction
-NOTE: Does not work with updated Netflix interface; working on a fix.
+NOTE: Does not work with updated Netflix interface; working on a fix. Also no guarantee to work with Mojave due to new API implementations. Unlikely to be updated for.
 
 A Chrome extension that automatically skips the Netflix introduction / credits for you.
 
